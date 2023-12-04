@@ -75,15 +75,3 @@ python evaluate.py --model_path 'path to your evaluated model' --test_patches 12
 
 ## Acknowledgment
 This repo is inspired by [MCR2](https://github.com/Ma-Lab-Berkeley/MCR2), [solo-learn](https://github.com/vturrisi/solo-learn) and [NMCE](https://github.com/zengyi-li/NMCE-release) repo.
-
-## Citation
-If you find this repository useful, please consider giving a star :star: and citation:
-
-```
-@article{tong2023empssl,
-title={EMP-SSL: Towards Self-Supervised Learning in One Training Epoch},
-author={Shengbang Tong and Yubei Chen and Yi Ma and Yann Lecun},
-journal={arXiv preprint arXiv:2304.03977},
-year={2023}
-}
-```
